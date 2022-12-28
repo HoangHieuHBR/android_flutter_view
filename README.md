@@ -4,13 +4,16 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is about communicate between Flutter and Native Platform (Android Kotlin)
 
-A few resources to get you started if this is your first Flutter project:
+This project is an example to show Flutter view on Android App
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Android Source: Android App with Flutter View](https://github.com/HoangHieuHBR/android_flutter_view/blob/main/android/app/src/main/kotlin/com/example/android_app_flutter_view/MainActivity.kt)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The result of this project
+
+![image](https://user-images.githubusercontent.com/121141914/209770423-9b6c4e5b-69e8-4e10-9ed1-2fea0861192f.png)
+
+
+
+
